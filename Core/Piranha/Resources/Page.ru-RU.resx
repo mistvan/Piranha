@@ -184,8 +184,7 @@
     <value>Навигационное название имеет максимальную длину в 128 символов.</value>
   </data>
   <data name="Permalink" xml:space="preserve">
-    <value>ˈpərməˌliNGk
-Постоянная ссылка</value>
+    <value>Постоянная ссылка</value>
   </data>
   <data name="PermalinkDescription" xml:space="preserve">
     <value>Постоянная ссылка будет создана автоматически при создании страницы</value>
@@ -266,10 +265,10 @@
     <value>Название маршрута имеет максимальную длину 128 символов.</value>
   </data>
   <data name="View" xml:space="preserve">
-    <value>Вид</value>
+    <value>Представление</value>
   </data>
   <data name="ViewLength" xml:space="preserve">
-    <value>Название вида имеет максимальную длину 128 символов.</value>
+    <value>Название представления имеет максимальную длину 128 символов.</value>
   </data>
   <data name="MessageUpdated" xml:space="preserve">
     <value>Опубликованная версия была обновлена​​.</value>

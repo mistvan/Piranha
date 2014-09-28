@@ -118,48 +118,48 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ContentAliases" xml:space="preserve">
-    <value>Aliases</value>
+    <value>Псевдонимы</value>
   </data>
   <data name="ContentMedia" xml:space="preserve">
-    <value>Images &amp; documents</value>
+    <value>Изображения и документы</value>
   </data>
   <data name="ContentPages" xml:space="preserve">
-    <value>Pages</value>
+    <value>Страницы</value>
   </data>
   <data name="ContentPosts" xml:space="preserve">
-    <value>Posts</value>
+    <value>Посты</value>
   </data>
   <data name="ContentTags" xml:space="preserve">
-    <value>Tags</value>
+    <value>Теги</value>
   </data>
   <data name="SettingsCategories" xml:space="preserve">
-    <value>Categories</value>
+    <value>Категории</value>
   </data>
   <data name="SettingsComments" xml:space="preserve">
-    <value>Comments</value>
+    <value>Комментарии</value>
   </data>
   <data name="SettingsPageTypes" xml:space="preserve">
-    <value>Page types</value>
+    <value>Типы страниц</value>
   </data>
   <data name="SettingsPostTypes" xml:space="preserve">
-    <value>Post types</value>
+    <value>Типы постов</value>
   </data>
   <data name="SettingsSites" xml:space="preserve">
-    <value>Sites</value>
+    <value>Сайты</value>
   </data>
   <data name="SystemAccess" xml:space="preserve">
-    <value>Permissions</value>
+    <value>Разрешения</value>
   </data>
   <data name="SystemExternals" xml:space="preserve">
-    <value>External systems</value>
+    <value>Внешние системы</value>
   </data>
   <data name="SystemGroups" xml:space="preserve">
-    <value>Groups</value>
+    <value>Группы</value>
   </data>
   <data name="SystemParams" xml:space="preserve">
-    <value>Parameters</value>
+    <value>Параметры</value>
   </data>
   <data name="SystemUsers" xml:space="preserve">
-    <value>Users</value>
+    <value>Пользователи</value>
   </data>
 </root>
