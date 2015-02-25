@@ -217,11 +217,11 @@ namespace Piranha.WebPages
 		/// </summary>
 		public static void Init() {
 			// Register the basic account route
-			if (!Config.PassiveMode) {
-				try {
-					RouteTable.Routes.MapRoute("Account", "account/{action}", new { controller = "auth", action = "index" }, new string[] { "Piranha.Web" }) ;
-				} catch {}
-			}
+            //if (!Config.PassiveMode) {
+            //    try {
+            //        RouteTable.Routes.MapRoute("Account", "account/{action}", new { controller = "auth", action = "index" }, new string[] { "Piranha.Web" }) ;
+            //    } catch {}
+            //}
 
 			// Register hostnames
 			RegisterDefaultHostNames() ;
