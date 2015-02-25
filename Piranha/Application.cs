@@ -155,10 +155,10 @@ namespace Piranha
 		/// Registers the default handlers.
 		/// </summary>
 		private void RegisterHandlers() {
-			Handlers.Add("", "STARTPAGE", new PermalinkHandler()) ;
-			Handlers.Add("home", "PERMALINK", new PermalinkHandler()) ;
+			//Handlers.Add("", "STARTPAGE", new PermalinkHandler()) ;
+			Handlers.Add("cms", "PERMALINK", new PermalinkHandler()) ;
 			Handlers.Add("draft", "DRAFT", new DraftHandler()) ;
-			Handlers.Add("media", "CONTENT", new ContentHandler()) ;
+			Handlers.Add("files", "CONTENT", new ContentHandler()) ;
 			Handlers.Add("media.ashx", "CONTENTHANDLER", new ContentHandler()) ;
 			Handlers.Add("mediadraft", "CONTENTDRAFT", new DraftContentHandler()) ;
 			Handlers.Add("thumb", "THUMBNAIL", new ThumbnailHandler()) ;
